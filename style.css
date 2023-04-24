@@ -1,0 +1,23 @@
+body
+{
+    background-color: #1f1f1f;
+    color: white;
+    font-family: 'Consolas';
+}
+
+#bodyTittle
+{
+    text-align: center;
+}
+
+#macbookStickerImg
+{
+    text-align: center;
+}
+
+#workInProgress
+{
+    text-align: center;
+    color: red;
+    font-size: 75px;
+}
